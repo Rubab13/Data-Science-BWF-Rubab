@@ -1,0 +1,11 @@
+From the whole provided book of python, from the first chapter I learned the following:
+- How to downlaod python. I had already downloaded it as I am a Data Science Student. So no problems here.
+- TO print anything on the console, there is a python function print(). It prints anything on the console that is given to it as argument.
+
+Second Topic:
+Variables are a container that are used to store something. In the world of programming, variabes are used to store data. THis data can be of different types. This makes that variables have different data types as well.
+In python, there are three popular types of data in variables: string, numeric and boolean.
+a = "Rubab" -> String type
+a = 123 -> numeric
+a = 1.2 -> float
+a = True -> bool type
