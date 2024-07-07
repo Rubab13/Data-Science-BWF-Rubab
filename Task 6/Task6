@@ -1,0 +1,4 @@
+Python is an Object-Oriented Programming Language.
+Everything in python is an object.
+A class is a blueprint or map for creating an object.
+An object is an instance of a class, an actual entity that is created on the map or blueprint provided by the class.
